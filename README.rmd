@@ -1,0 +1,16 @@
+# Curso de WebPack
+
+### Aula 01
+
+- Visão geral do projeto
+- Instalação do webpack
+- Um pouco sobre latência e largura de banda
+- Webpack.config.js e configuração incial
+
+### Aula 02
+
+### Aula 03
+
+### Aula 04
+
+### Aula 05
