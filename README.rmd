@@ -30,3 +30,7 @@ Papel e configuração do style-loader
 - Code splitting a lazy loading
 
 ### Aula 05
+
+- Configuração do servidor
+- Instalação do WebPaclk Dev Server
+- Detalhes sobre o seu funcionamento que tornam o desenvolvedor mais produtivo
