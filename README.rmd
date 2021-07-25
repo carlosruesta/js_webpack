@@ -16,6 +16,12 @@
 
 ### Aula 03
 
+Tratando pacotes CSS como módulos
+Papel e configuração do css-loader### Aula 04
+Papel e configuração do style-loader
+
 ### Aula 04
+
+
 
 ### Aula 05
