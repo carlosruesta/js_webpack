@@ -31,13 +31,17 @@ module.exports = {
 	},
 	plugins: [
 		new HtmlWebpackPlugin({
-			template: './app/src/app.html',
-			filename: "app.html",
+			template: './app/src/index.html',
+			filename: "index.html",
 			hash: true
 		}),
 		new MiniCssExtractPlugin({
 			filename: "style.css",
 		}),
 		new Webpack.optimize.ModuleConcatenationPlugin()
-	]
-}
+	],
+	devServer: {
+		contentBase: Path.resolve(__dirname, 'dist'),
+		port: 3000
+	}
+};
